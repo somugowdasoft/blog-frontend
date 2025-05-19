@@ -1,12 +1,12 @@
-Here's a sample `README.md` file for your **React Blog Frontend**:
 
 ---
 
-```markdown
 # 📝 React Blog Frontend
 
 This is the frontend for a Blog application built with **React**, **React Router**, **Tailwind CSS**, and **Axios**. It connects to a backend REST API to manage blog posts with user authentication.
 
+---
+---
 ## 🚀 Features
 
 - User Login & Signup
@@ -46,7 +46,6 @@ src/
 └── main.jsx
 
 ````
-
 ---
 
 ## 🔧 Installation
@@ -56,6 +55,7 @@ src/
 git clone https://github.com/your-username/blogs-frontend.git
 cd blogs-frontend
 ````
+---
 
 ### 2. Install dependencies
 
@@ -142,15 +142,6 @@ DELETE  /api/blogs/:id
 ## 📷 Preview
 
 ![Preview](./public/Screenshot%202025-05-19%20131142.png)
-![Preview](./public/Screenshot%202025-05-19%20131253.png)
+![Preview](./public/Screenshot%202025-05-19%20132150.png)
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-```
