@@ -68,7 +68,7 @@ npm install
 Create a `.env` file in the root directory with the following:
 
 ```env
-BACKEND_URL=http://localhost:5000/api
+BACKEND_URL=https://blog-backend-9rqu.onrender.com/api
 ```
 
 > Replace with your actual backend URL if different.
