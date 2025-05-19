@@ -4,8 +4,8 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import './App.css'
 import { AuthProvider } from './context/AuthContext'
-import Login from './Auth/Login'
-import Signup from './Auth/Signup'
+import Login from './authApis/Login'
+import Signup from './authApis/SignUp'
 import NotFound from './components/NotFound'
 import PrivateRoute from './routes/PrivateRoute'
 import BlogsPage from "./pages/Blogs";
