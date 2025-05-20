@@ -26,9 +26,9 @@ const Login = () => {
       // AuthContext
       login(userData);
 
-    } catch (error) {
+    } catch (error) {      
       if (error.response) {
-        toast.error(`Error: ${error.response.data.message}`);
+        toast.error(`Error: ${error.response.data.msg}`);
       } else {
         toast.error("Network error. Please try again.");
       }
